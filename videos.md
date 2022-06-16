@@ -4,7 +4,7 @@
 This will be a local area for my videos to be hosted.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=akQs6qq2x3o" frameborder="2" allowfullscreen="true"> </iframe>
+  <iframe src="https://youtu.be/akQs6qq2x3o" frameborder="2" allowfullscreen="true"> </iframe>
 </figure>
 <br>
 <figure class="video_container">
