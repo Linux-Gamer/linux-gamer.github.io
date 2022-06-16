@@ -1,4 +1,6 @@
-[Home](index.md)  [About](about.md)  [Posts](posts.md)  [Gallery](gallery.md)  [Social Links](socials.md)
+<head><title>Linux-Gamer</title></head>
+
+[Home](index.md) [Posts](posts.md) [Social Links](socials.md)
 ## About
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
 are run and how I work. The main few things to know is that I mainly use an
@@ -10,3 +12,5 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 ## Featured Posts
 [Welcome Post](/content/posts/welcome-post.md)
+
+## Gallery
