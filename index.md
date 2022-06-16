@@ -1,4 +1,5 @@
 <head><title>Linux-Gamer</title></head>
+<link href="style.css" rel="stylesheet" type="text/css" />
 
 [Home](index.md) [Posts](posts.md) [Socials](socials.md)
 ## About
