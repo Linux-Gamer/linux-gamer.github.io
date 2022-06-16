@@ -1,5 +1,6 @@
+<head><title>Linux-Gamer - Socials</title></head>
 # Socials
-[Home](index.md)  [About](about.md)  [Posts](posts.md)  [Gallery](gallery.md)  [Social Links](socials.md)
+[Home](index.md) [Posts](posts.md) [Socials](socials.md)
 
 ## YouTube <img src="/resources/yt.png" alt="youtube=logo" width="50"/>
 
