@@ -1,5 +1,6 @@
 [Home](index.md)  [About](about.md)  [Posts](posts.md)  [Gallery](gallery.md)  [Social Links](socials.md)
-## About Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
+## About
+Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
 are run and how I work. The main few things to know is that I mainly use an
 Asus Vivobook X705 running Windows 11; however for doing certain things, I use an Asus X553MA running Kubuntu 22.04. The computer that I originally started the channels on was a Lenovo Ideapad 110 running Windows 10. Other things to note are that I am a “talented” artist and am quite knowledgeable with technology.
 
