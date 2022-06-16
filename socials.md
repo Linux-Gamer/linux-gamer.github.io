@@ -4,6 +4,7 @@
 ## YouTube <img src="/resources/yt.png" alt="drawing" width="50"/>
 
 My Main Channel - [Linux-Gamer](https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg)
+<br>
 My Podcast Channel - [The Linux Gamer Cast](https://www.youtube.com/channel/UCwDnzR6jL9gysWn6e4VRyOw)
 
 ## Twitch <img src="/resources/twitch.png" alt="drawing" width="45"/>
