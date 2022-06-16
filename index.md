@@ -3,3 +3,5 @@
 ## Welcome
 This is my website.
 
+## Featured Posts
+[Welcome Post](/content/posts/welcome-post.md)
