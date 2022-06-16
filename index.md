@@ -1,6 +1,6 @@
 <head><title>Linux-Gamer</title></head>
 
-[Home](index.md) [Posts](posts.md) [Social Links](socials.md)
+[Home](index.md) [Posts](posts.md) [Socials](socials.md)
 ## About
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
 are run and how I work. The main few things to know is that I mainly use an
