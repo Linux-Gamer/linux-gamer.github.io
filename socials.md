@@ -12,3 +12,5 @@ My Podcast Channel - [The Linux Gamer Cast](https://www.youtube.com/channel/UCwD
 My Channel - [the_linuxgamer](https://twitch.tv/the_linuxgamer)
 
 ## Twitter <img src="/resources/twitter.png" alt="twitter-logo" width="50">
+
+My Account - [Linux Gamer](https://twitter.com/The_LinuxGamer)
