@@ -1,4 +1,0 @@
----
-title: Videos 
-type: page
----
