@@ -4,7 +4,7 @@ This website is for myself ([Linux Gamer](https://youtube.com/channel/Linux Game
 
 
 ### Important Links:
-Art Gallery - [HERE](/linux-gamer.github.io/gallery.md)
+Art Gallery - [HERE](linux-gamer.github.io/gallery)
 
 Posts - [HERE](posts.md)
 
