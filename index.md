@@ -1,8 +1,9 @@
 <html>
-<head><title>Linux-Gamer</title></head>
+<head><title>Linux-Gamer</title>
 <link href="style.css" rel="stylesheet" type="text/css" />
-<a href="linux-gamer.github.io">Home</a> [Posts](posts.md) [Socials](socials.md)
+</head>
 <body>
+<a href="linux-gamer.github.io">Home</a> [Posts](posts.md) [Socials](socials.md)
 <h1> About </h1>
 <p>
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
