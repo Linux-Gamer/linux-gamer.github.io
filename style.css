@@ -1,6 +1,6 @@
 body {
-    background-color: #3B4252
-;
+    background-color: #3B4252;
+
   }
   
   h1 {
@@ -12,3 +12,6 @@ body {
     font-family: JetBrainsMono;
     font-size: 20px;
   }
+html {
+    background-color: #3B4252;
+}
