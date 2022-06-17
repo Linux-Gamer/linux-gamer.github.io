@@ -20,6 +20,6 @@
 <h2>Twitter     <img src="/resources/twitter.png" alt="twitter-logo" width="50"></h2>
 
 <p>My Account - <a href="https://twitter.com/The_LinuxGamer">Linux Gamer</a></p>
-
+<br>
 </body>
 </html>
