@@ -1,4 +1,6 @@
+<html>
 <head><title>Linux-Gamer - Socials</title></head>
+<body>
 # Socials
 [Home](index.md) [Posts](posts.md) [Socials](socials.md)
 
@@ -15,3 +17,5 @@ My Channel - [the_linuxgamer](https://twitch.tv/the_linuxgamer)
 ## Twitter <img src="/resources/twitter.png" alt="twitter-logo" width="50">
 
 My Account - [Linux Gamer](https://twitter.com/The_LinuxGamer)
+</body>
+</html>
