@@ -14,3 +14,9 @@ body {
     color: #B48EAD;
     text-align:center;
   }
+  
+  a {
+    font-family: JetBrainsMono;
+    font-size: 20px;
+    text-align:center;
+  }
