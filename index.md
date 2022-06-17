@@ -4,6 +4,7 @@
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+<h1>Home</h1>
 <a href="linux-gamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
 <h1> About </h1>
 <p>
