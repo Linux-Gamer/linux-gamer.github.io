@@ -21,8 +21,9 @@ I started as a content creator back in December 2020 because I wanted to provide
 [Welcome Post](/content/posts/welcome-post.md)
 </p>
 
+<h1>Gallery</h1>
 <p>
-## Gallery
+
 </p>
 </body>
 <html>
