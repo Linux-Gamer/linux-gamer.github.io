@@ -18,7 +18,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h1> Featured Posts</h1>
 <p>
-<a href="/content/posts/welcome-post.md">Welcome Post</a>
+<a href="/content/posts/welcome-post">Welcome Post</a>
 </p>
 
 <h1>Gallery</h1>
