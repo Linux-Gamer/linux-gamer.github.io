@@ -26,5 +26,10 @@ I started as a content creator back in December 2020 because I wanted to provide
 <p>
 
 </p>
+
+<h1>Friends</h1>
+<p>
+
+</p>
 </body>
 </html>
