@@ -15,7 +15,7 @@
 
 <h2>Twitch      <img src="/resources/twitch.png" alt="twitch-logo" width="45"/></h2>
 
-<p>My Channel - <a href="https://twitch.tv/the_linuxgamer">the_linuxgamer<p>
+<p>My Channel - <a href="https://twitch.tv/the_linuxgamer">the_linuxgamer</a><p>
 
 <h2>Twitter     <img src="/resources/twitter.png" alt="twitter-logo" width="50"></h2>
 
