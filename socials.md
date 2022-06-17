@@ -21,5 +21,3 @@
 
 <p>My Account - <a href="https://twitter.com/The_LinuxGamer">Linux Gamer</a></p>
 <br>
-</body>
-</html>
