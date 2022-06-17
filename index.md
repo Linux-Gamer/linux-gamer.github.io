@@ -2,7 +2,7 @@
 <link href="style.css" rel="stylesheet" type="text/css" />
 
 [Home](index.md) [Posts](posts.md) [Socials](socials.md)
-<div id="1" style=".mainbody">
+
 ## About
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
 are run and how I work. The main few things to know is that I mainly use an
