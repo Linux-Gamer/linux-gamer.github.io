@@ -3,7 +3,7 @@
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-<a href="linux-gamer.github.io">Home</a> [Posts](posts.md) [Socials](socials.md)
+<a href="linux-gamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> [Socials](socials.md)
 <h1> About </h1>
 <p>
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
