@@ -1,7 +1,7 @@
 <head><title>Linux-Gamer - Videos</title></head>
 
 [Home](index.md) [Posts](posts.md) [Socials](socials.md)
-# Videosmit
+# Videos
 <br>
 This will be a local area for my videos to be hosted.
 
