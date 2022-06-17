@@ -9,16 +9,16 @@
 
 <h2>YouTube     <img src="/resources/yt.png" alt="youtube=logo" width="50"/></h2>
 <br>
-My Main Channel - [Linux-Gamer](https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg)
+<p>My Main Channel - [Linux-Gamer](https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg)</p>
 <br>
-My Podcast Channel - [The Linux Gamer Cast](https://www.youtube.com/channel/UCwDnzR6jL9gysWn6e4VRyOw)
+<p>My Podcast Channel - [The Linux Gamer Cast](https://www.youtube.com/channel/UCwDnzR6jL9gysWn6e4VRyOw)</p>
 
 <h2>Twitch      <img src="/resources/twitch.png" alt="twitch-logo" width="45"/></h2>
 
-My Channel - [the_linuxgamer](https://twitch.tv/the_linuxgamer)
+<p>My Channel - [the_linuxgamer](https://twitch.tv/the_linuxgamer)</p>
 
 <h2>Twitter     <img src="/resources/twitter.png" alt="twitter-logo" width="50"></h2>
 
-My Account - [Linux Gamer](https://twitter.com/The_LinuxGamer)
+<p>My Account - [Linux Gamer](https://twitter.com/The_LinuxGamer)</p>
 </body>
 </html>
