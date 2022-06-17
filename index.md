@@ -1,7 +1,7 @@
 <html>
 <head><title>Linux-Gamer</title></head>
 <link href="style.css" rel="stylesheet" type="text/css" />
-<a href="/index.md">Home</a>[Home](index.md) [Posts](posts.md) [Socials](socials.md)
+<a href="linux-gamer.github.io">Home</a> [Posts](posts.md) [Socials](socials.md)
 <body>
 <h1> About </h1>
 <p>
