@@ -7,13 +7,13 @@
 <h1>Socials</h1>
 <a href="linux-gamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
 
-## YouTube <img src="/resources/yt.png" alt="youtube=logo" width="50"/>
-
+<h2>YouTube</h2><img src="/resources/yt.png" alt="youtube=logo" width="50"/>
+<br>
 My Main Channel - [Linux-Gamer](https://www.youtube.com/channel/UCbBtLFxKBpcwt85EoP0kXRg)
 <br>
 My Podcast Channel - [The Linux Gamer Cast](https://www.youtube.com/channel/UCwDnzR6jL9gysWn6e4VRyOw)
 
-## Twitch <img src="/resources/twitch.png" alt="twitch-logo" width="45"/>
+<h2>Twitch</h2> <img src="/resources/twitch.png" alt="twitch-logo" width="45"/>
 
 My Channel - [the_linuxgamer](https://twitch.tv/the_linuxgamer)
 
