@@ -1,8 +1,11 @@
 <html>
-<head><title>Linux-Gamer - Socials</title></head>
+<head>
+<title>Linux-Gamer - Socials</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
 <body>
-# Socials
-[Home](index.md) [Posts](posts.md) [Socials](socials.md)
+<h1>Socials</h1>
+<a href="linux-gamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
 
 ## YouTube <img src="/resources/yt.png" alt="youtube=logo" width="50"/>
 
