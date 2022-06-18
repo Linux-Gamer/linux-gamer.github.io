@@ -30,7 +30,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h1><u>Peeps I reccomend:</u></h1>
 <p>
-Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a>
+Saultoons - <font size="12"><a href="https://youtube.com/c/Saultoons" >YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a></font>
 <br>
 Zaney
 <br>
