@@ -1,23 +1,21 @@
 body {
+    background-color: #3B4252;
     text-align: center;
   }
   
   h1 {
     color: #EBCB8B;
     text-align: center;
-    background-color: #3B4252;
   }
   
   h2 {
     color: #EBCB8B;
     text-align: center;
-    background-color: #3B4252;
   }
   
   h3 {
     color: #D08770;
     text-align: center;
-    background-color: #3B4252;
   }
 
   p {
@@ -25,7 +23,6 @@ body {
     font-size: 18px;
     color: #B48EAD;
     text-align:center;
-    background-color: #3B4252;
   }
   
   a {
@@ -33,8 +30,4 @@ body {
     font-size: 20px;
     text-align:center;
     color: #81A1C1;
-  }
-
-  html {
-    background-image: img src="/assets/resources/yt.png";
   }
