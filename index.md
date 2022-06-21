@@ -38,6 +38,11 @@ Frantic - <a href="">YouTube</a>
 <br>
 Miss Charlottie - <a href="">YouTube</a> <a href="https://twitch.tv/MissCharlottie">Twitch</a>
 <br>
+The Linux Cast - <a href="">YouTube</a>
+<br>
+Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a>
+<br>
+David Revoy - <a href="">YouTube</a>
 </p>
 </body>
 </html>
