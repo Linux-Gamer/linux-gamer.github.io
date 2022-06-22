@@ -11,5 +11,7 @@
 
 <h3>2022</h3>
 <a href="/content/posts/welcome-post">Welcome Post</a>
+<br>
+<a href="/content/posts/my-new-setup">My New Setup<a>
 </body>
 </html>
