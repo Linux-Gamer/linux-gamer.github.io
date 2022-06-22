@@ -20,7 +20,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h2><u> Featured Posts </u></h2>
 <p>
-<h3>NEW</h3><a href="/content/posts/my-new-setup">My New Setup</a>
+<h3>NEW<a href="/content/posts/my-new-setup"></h3>My New Setup</a>
 <br>
 <a href="/content/posts/welcome-post">Welcome Post</a>
 </p>
