@@ -42,7 +42,7 @@ The Linux Cast - <a href="">YouTube</a>
 <br>
 Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a>
 <br>
-David Revoy - <a href="">YouTube</a>
-</p> -->
+David Revoy - <a href="">YouTube</a> -->
+</p>
 </body>
 </html>
