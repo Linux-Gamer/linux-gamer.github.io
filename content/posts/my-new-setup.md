@@ -9,10 +9,10 @@ I am running Fedora 36 KDE spin. KDE Plasma version 5.24.5; KDE Frameworks versi
 My daily use case for the device includes, schoolwork (whilst connected to school network) and art/content creation in the evenings as well as occational coursework.
 
 ## Main Software I Use
-Web Browser - Brave Nightly
-File Browser - Dolphin
-Office Suit - LibreOffice
-Image Editing And Drawing - Krita
-Pixel Art - LibreSprite
-Email Client - Thunderbird
-Terminal - Kitty/Alacritty
+Web Browser - Brave Nightly<br>
+File Browser - Dolphin<br>
+Office Suit - LibreOffice<br>
+Image Editing And Drawing - Krita<br>
+Pixel Art - LibreSprite<br>
+Email Client - Thunderbird<br>
+Terminal - Kitty/Alacritty<br>
