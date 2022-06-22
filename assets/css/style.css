@@ -10,19 +10,19 @@ body {
   
   h2 {
     color: #D08770;
-    text-align: left;
+    text-align: center;
   }
   
   h3 {
     color: #D08770;
-    text-align: left;
+    text-align: center;
   }
 
   p {
     font-family: JetBrainsMono;
     font-size: 18px;
     color: #B48EAD;
-    text-align:left;
+    text-align:center;
   }
   
   a {
