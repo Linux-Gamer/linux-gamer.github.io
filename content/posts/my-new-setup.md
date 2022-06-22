@@ -16,3 +16,7 @@ Image Editing And Drawing - Krita<br>
 Pixel Art - LibreSprite<br>
 Email Client - Thunderbird<br>
 Terminal - Kitty/Alacritty<br>
+
+<a href="https://linux-gamer.github.io">Back to Home</a>
+<br>
+<a href="https://linux-gamer.github.io/posts">Back to Posts</a>
