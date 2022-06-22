@@ -6,7 +6,7 @@
 <body>
 <h1>Home</h1>
 <a href="linux-gamer.github.io">Home</a> <a href="posts">Posts</a> <a href="socials">Socials</a> 
-<h2><u> About </u>/h2>
+<h2><u> About </u></h2>
 <p>
 Hi, I am CJ from Linux-Gamer. This site is a brief incite into how the channels
 are run and how I work. The main few things to know is that I mainly use an
