@@ -1,4 +1,4 @@
-# My New Setup
+# **_My New Setup_**
 ## Hardware
 I am using an Asus X553MA with a 4 core Intel Pentium N3540 @2.16GHz, 8GB of RAM and built in Mesa Intel HD Graphics, with a 1 TB HDD for storage.
 
