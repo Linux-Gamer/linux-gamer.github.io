@@ -14,6 +14,6 @@
 <br>
 <a href="/content/posts/my-new-setup">My New Setup</a>
 <br>
-<a href="/content/posts/foss-tiems.md">The FOSS Times</a>
+<a href="/content/posts/foss-times.md">The FOSS Times</a>
 </body>
 </html>

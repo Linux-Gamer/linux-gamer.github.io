@@ -24,7 +24,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 
 <h2><u> Featured Post </u></h2>
 <p>
-<a href="/content/posts/foss-tiems.md">NEW - The FOSS Times</a>
+<a href="/content/posts/foss-times.md">NEW - The FOSS Times</a>
 <br>
 <a href="/content/posts/my-new-setup">My New Setup</a>
 </p>
