@@ -10,7 +10,7 @@ My daily use case for the device includes, schoolwork (whilst connected to schoo
 
 ## Main Software I Use
 Web Browser - Brave Nightly<br>
-File Browser - Caja<br>
+File Manager - Caja<br>
 Office Suit - LibreOffice<br>
 Image Editing And Drawing - Krita<br>
 Pixel Art - LibreSprite<br>
