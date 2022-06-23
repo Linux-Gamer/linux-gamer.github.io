@@ -13,5 +13,7 @@
 <a href="/content/posts/welcome-post">Welcome Post</a>
 <br>
 <a href="/content/posts/my-new-setup">My New Setup</a>
+<br>
+<a href="/content/posts/foss-tiems.md">The FOSS Times</a>
 </body>
 </html>
