@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Linux-Gamer</title>
+<link rel="shortcut icon" href="assets/icon.ico">
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
@@ -38,7 +39,7 @@ I started as a content creator back in December 2020 because I wanted to provide
 <p>
 Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a>
 <!-- <br>
-Zaney - <a href="">YouTube</a>
+Zaney - <a href="https://youtube.com/c/ZaneyOG">YouTube</a>
 <br>
 Frantic - <a href="">YouTube</a>
 <br>
