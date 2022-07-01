@@ -52,4 +52,18 @@ Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a
 David Revoy - <a href="">YouTube</a> -->
 </p>
 </body>
+    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+
+      <div class="text-center center-block " id="community">
+          <h3>Social Networks</h3>
+          <a href="https://github.com/linux-gamer/"><i class="fa fa-github fa-4x social"></i></a>
+          <a href="https://discord.gg/"><i class="fa fa-discord fa-4x social"></i></a>
+      </div>
+      <br>
+      <p class="text-center">This program is distributed under the 
+      <a href="https://github.com/LibreSprite/LibreSprite/blob/master/LICENSE.txt">GNU General Public License Version 2 </a>
+      | WebSite Designed With ❤️</p>
+
+
+    </footer>
 </html>
