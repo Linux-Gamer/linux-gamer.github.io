@@ -56,13 +56,11 @@ David Revoy - <a href="">YouTube</a> -->
 
       <div class="text-center center-block " id="community">
           <h3>Social Networks</h3>
-          <a href="https://github.com/linux-gamer/"><font family="Font Awesome 5 Free></font></a>
+          <font family="Font Awesome 5 Free><a href="https://github.com/linux-gamer/"></a></font>
       </div>
       <br>
       <p class="text-center">This website is made and distributed under the 
       <a href="https://github.com/linux-gamer/linux-gamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
       | WebSite Designed With ❤️ by Linux-Gamer</p>
-
-
     </footer>
 </html>
