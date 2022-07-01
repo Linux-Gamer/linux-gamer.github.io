@@ -57,12 +57,12 @@ David Revoy - <a href="">YouTube</a> -->
       <div class="text-center center-block " id="community">
           <h3>Social Networks</h3>
           <a href="https://github.com/linux-gamer/"><i class="fa fa-github fa-4x social"></i></a>
-          <a href="https://discord.gg/"><i class="fa fa-discord fa-4x social"></i></a>
+#          <a href="https://discord.gg/"><i class="fa fa-discord fa-4x social"></i></a>
       </div>
       <br>
-      <p class="text-center">This program is distributed under the 
-      <a href="https://github.com/LibreSprite/LibreSprite/blob/master/LICENSE.txt">GNU General Public License Version 2 </a>
-      | WebSite Designed With ❤️</p>
+      <p class="text-center">This website is made and distributed under the 
+      <a href="https://github.com/linux-gamer/linux-gamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
+      | WebSite Designed With ❤️ by Linux-Gamer</p>
 
 
     </footer>
