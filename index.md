@@ -38,14 +38,15 @@ I started as a content creator back in December 2020 because I wanted to provide
 <h2><u> Peeps I reccomend </u></h2>
 <p>
 Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="https://twitch.tv/saultoons">Twitch</a>
-<!-- <br>
+ <br>
 Zaney - <a href="https://youtube.com/c/ZaneyOG">YouTube</a>
 <br>
+-->
 Frantic - <a href="">YouTube</a>
 <br>
 Miss Charlottie - <a href="">YouTube</a> <a href="https://twitch.tv/MissCharlottie">Twitch</a>
 <br>
-The Linux Cast - <a href="">YouTube</a>
+<!--The Linux Cast - <a href="">YouTube</a>
 <br>
 Chris Titus Tech - <a href="">YouTube</a> <a href="https://twitch.tv/">Twitch</a>
 <br>
@@ -54,10 +55,10 @@ David Revoy - <a href="">YouTube</a> -->
 </body>
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
 
-      <div class="text-center center-block " id="community">
+      <!-- <div class="text-center center-block " id="community">
           <h3>Social Networks</h3>
           <font family="Font Awesome 5 Free><a href="https://github.com/linux-gamer/"></a></font>
-      </div>
+      </div> -->
       <br>
       <p class="text-center">This website is made and distributed under the 
       <a href="https://github.com/linux-gamer/linux-gamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
