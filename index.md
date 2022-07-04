@@ -41,7 +41,6 @@ Saultoons - <a href="https://youtube.com/c/Saultoons">YouTube</a>  <a href="http
  <br>
 Zaney - <a href="https://youtube.com/c/ZaneyOG">YouTube</a>
 <br>
--->
 Frantic - <a href="">YouTube</a>
 <br>
 Miss Charlottie - <a href="">YouTube</a> <a href="https://twitch.tv/MissCharlottie">Twitch</a>
@@ -54,12 +53,6 @@ David Revoy - <a href="">YouTube</a> -->
 </p>
 </body>
     <footer class="pt-4 my-md-5 pt-md-5 border-top">
-
-      <!-- <div class="text-center center-block " id="community">
-          <h3>Social Networks</h3>
-          <font family="Font Awesome 5 Free><a href="https://github.com/linux-gamer/"></a></font>
-      </div> -->
-      <br>
       <p class="text-center">This website is made and distributed under the 
       <a href="https://github.com/linux-gamer/linux-gamer.github.io/LICENSE.txt">GNU General Public License Version 2 </a>
       | WebSite Designed With ❤️ by Linux-Gamer</p>
