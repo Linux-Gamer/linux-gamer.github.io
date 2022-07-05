@@ -1,4 +1,5 @@
 # **My New Setup**
+## Tuesday 5th June 2022 - 9:30AM
 ## Introduction
 Welcome to another post, today I'm going to give you all a run down of my system.
 
@@ -9,7 +10,7 @@ I am using an Asus X553MA with a 4 core Intel Pentium N3540 @2.16GHz, 8GB of RAM
 I am running Manjaro KDE. KDE Plasma version 5.24.5; KDE Frameworks version 5.93.0; Qt version 5.15.3; kernel version 5.18.5-200.fc36.x86_64 (64-bit); and with X11 as the graphics platform.
 
 ## Day To Day Use
-My daily use case for the device includes, schoolwork (whilst connected to school network) and art/content creation in the evenings (at home) as well as occational coursework.
+My daily use case for the device includes, schoootify-send -t 5000 -u critical "Shutting Down Soon!"lwork (whilst connected to school network) and art/content creation in the evenings (at home) as well as occational coursework.
 
 ## Main Software I Use
 Web Browser - Brave Nightly<br>
