@@ -22,6 +22,7 @@ Email Client - Thunderbird<br>
 Terminal - Kitty/Alacritty<br>
 Terminal Text Editor - Micro<br>
 
+
 ## Reasons
 The reasons behind the distro (Manjaro) is that I want to use Arch (as it's a rolling release), but I can't get vanilla Arch working. Manjaro offers a themed Arch experience with a calamares installer (which makes it easier to install). I tried Ubuntu but I don't like the fact that they push Snaps on you without informing you;I used Fedora for the best part of 5 months and honestly it was AWESOME, but I like the AUR and the high number of packages that are on Arch, and the rolling release.
 
