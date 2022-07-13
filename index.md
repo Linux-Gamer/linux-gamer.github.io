@@ -22,6 +22,8 @@ Asus Vivobook X705 running Windows 11; however for doing certain things, I use a
 I started as a content creator back in December 2020 because I wanted to provide entertainment to people during the COVID pandemic. Since then, I have grown to like being a content creator and with 60 followers on Twitch and (on the old YouTube channel) having 33 subscribers, I have decided to continue making content for the entertainment of others. Even from a young age I enjoyed helping others and this is doing that but in a very different way. If you haven’t already go check out the channels (links are in the bar at the top).
 </p>
 
+<h2><u>Twitter Posts</u></h2>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 2 of <a href="https://twitter.com/hashtag/100daysofart?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofart</a> - continuing with the isometric piece I started yesterday, had a lil bit of feedback from <a href="https://twitter.com/Saultoons?ref_src=twsrc%5Etfw">@Saultoons</a> (which was very helpful), gonna probably spent a couple more days on this piece. <a href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a href="https://twitter.com/hashtag/artontwitter?src=hash&amp;ref_src=twsrc%5Etfw">#artontwitter</a> <a href="https://twitter.com/hashtag/digitalart?src=hash&amp;ref_src=twsrc%5Etfw">#digitalart</a> <a href="https://t.co/7X29icZEK4">pic.twitter.com/7X29icZEK4</a></p>&mdash; Linux Gamer (@The_LinuxGamer) <a href="https://twitter.com/The_LinuxGamer/status/1547286825835831301?ref_src=twsrc%5Etfw">July 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h2><u> Featured Post </u></h2>
 <p>
