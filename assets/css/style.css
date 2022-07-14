@@ -21,6 +21,8 @@ body {
   p {
     color: #B48EAD;
     text-align:center;
+    padding-left: 70px;
+    padding-right: 70px;
   }
   
   a {
@@ -28,4 +30,8 @@ body {
     font-size: 20px;
     text-align:center;
     color: #81A1C1;
+  }
+
+  html {
+    background-color: #3B4252;
   }
