@@ -31,7 +31,12 @@ body {
     text-align: center;
     align-items: center;
   }
-
+blockquote {
+    padding-left: 70px;
+    padding-right: 70px;
+    text-align: center;
+    align-items: center;
+  }
   a {
     font-family: JetBrainsMono;
     font-size: 20px;
