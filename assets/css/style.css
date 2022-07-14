@@ -31,12 +31,14 @@ body {
     padding-right: 70px;
     text-align: center;
     align-items: center;
+    display: flex;
   }
   blockquote {
     padding-left: 70px;
     padding-right: 70px;
     text-align: center;
     align-items: center;
+    display: flex;
   }
   a {
     font-family: JetBrainsMono;
@@ -48,3 +50,4 @@ body {
   html {
     background-color: #3B4252;
   }
+  
