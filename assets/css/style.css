@@ -32,7 +32,8 @@ body {
     text-align: center;
     display: flex;
     align-items: center;
-    
+    position: relative;
+    left: calc(50vw - ELEMENTWIDTH);
   }
   blockquote {
     padding-left: 70px;
@@ -40,7 +41,8 @@ body {
     text-align: center;
     display: flex;
     align-items: center;
-    
+    position: relative;
+    left: calc(50vw - ELEMENTWIDTH);
   }
   a {
     font-family: JetBrainsMono;
